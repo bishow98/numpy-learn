@@ -1,4 +1,3 @@
-https://github.com/bishow98/numpy-learn.git
 ## Install instructions
 
 1. Clone the repo
